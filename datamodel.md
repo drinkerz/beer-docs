@@ -1,3 +1,8 @@
-# Beer Data Model
+# 맥주 데이터 모델
 
-# reference
+```json
+{
+  "id": 1,
+  "adv": 1
+}
+```

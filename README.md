@@ -1,4 +1,4 @@
-# beer-docs
+# 맥주 문서
 beer document
 
 # reference
