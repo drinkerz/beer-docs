@@ -1,7 +1,12 @@
 # 맥주 문서
 beer document
 
-# reference
+## 수제 맥주를 분류하는 기준
+ - ABV
+    - Alcohol by volume
+
+ - IBU
+ - SRM
 
 ## 디자인 참고
 
@@ -13,3 +18,4 @@ beer document
 3. [Beer Flavor Profiles](https://www.tekutavern.beer/beer-flavor-profiles)
 
 ## 기타 등등
+1. [수제맥주 분류](https://pubbronx.tistory.com/6)

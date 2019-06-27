@@ -45,6 +45,7 @@
 - Boozy
 - Citrus
 - Earthy
+- ABV (Alcohol By Volume)
 - IBU (International Bittering Units)
   - 맥주의 쓰기를 나타내는 단위
 - Pungent
