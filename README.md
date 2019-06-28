@@ -16,6 +16,8 @@ beer document
 1. [Wine, Beer, and Liquor Reviews](https://data.world/datafiniti/wine-beer-and-liquor-reviews)
 2. [Craft Cans](https://www.kaggle.com/nickhould/craft-cans)
 3. [Beer Flavor Profiles](https://www.tekutavern.beer/beer-flavor-profiles)
+4. [rete Beer](https://www.ratebeer.com/)
+5. [rate beer설명한 블로그](http://www.beerforum.co.kr/article_beer/96427)
 
 ## 기타 등등
 1. [수제맥주 분류](https://pubbronx.tistory.com/6)
