@@ -46,11 +46,14 @@
 - Citrus
 - Earthy
 - ABV (Alcohol By Volume)
+  - 알콜 도수
 - IBU (International Bittering Units)
   - 맥주의 쓰기를 나타내는 단위
+- SRM (Standard Reference Method)
+  - 맥주의 색 정도
+  - 값이 클수록 어둡다
 - Pungent
 - Robust
-- SRM (Standard Reference Method)
 - Tart
 - Dry Hopping
 - Malty
