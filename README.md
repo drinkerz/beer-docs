@@ -50,6 +50,7 @@ beer document
 6. [맥주 테이스팅 용어 1](https://themonk.tistory.com/9)
 7. [맥주 테이스팅 용어 2](https://www.facebook.com/creebkorea/photos/%EB%A7%A5%EC%A3%BC%EB%A5%BC-%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%ED%85%8C%EC%9D%B4%EC%8A%A4%ED%8C%85-%EC%9A%A9%EC%96%B4-body-%EB%B0%94%EB%94%94%ED%8E%B8%EB%B0%94%EB%94%94%EA%B0%90%EC%9D%80-%EB%A7%A5%EC%A3%BC%EC%9D%98-%EC%B4%89%EA%B0%90%EC%9D%84-%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94-%EC%9A%A9%EC%96%B4%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%A7%A5%EC%A3%BC-%ED%8F%89%EA%B0%80-%EC%9A%94%EC%86%8C%EC%97%90%EC%84%9C%EB%8A%94-mouthfeel-%EC%9E%85%EC%95%88-%EB%8A%90%EB%82%8C/244079996361490/)
 8. [주갤가격표](https://docs.google.com/spreadsheets/d/1mZos-qRBEfH5Ud6vNdEKTUTVnGPdeZrvEj1H5oATzsA/edit#gid=257490207)
+9. [학저비한국맥주지도](https://hakjubi.tistory.com/1)
 
 ## 기타 등등
 1. [수제맥주 분류](https://pubbronx.tistory.com/6)
