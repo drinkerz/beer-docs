@@ -18,6 +18,7 @@ beer document
 3. [Beer Flavor Profiles](https://www.tekutavern.beer/beer-flavor-profiles)
 4. [rete Beer](https://www.ratebeer.com/)
 5. [rate beer설명한 블로그](http://www.beerforum.co.kr/article_beer/96427)
+6. [주갤가격표](https://docs.google.com/spreadsheets/d/1mZos-qRBEfH5Ud6vNdEKTUTVnGPdeZrvEj1H5oATzsA/edit#gid=257490207)
 
 ## 기타 등등
 1. [수제맥주 분류](https://pubbronx.tistory.com/6)
